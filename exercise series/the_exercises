@@ -1,0 +1,56 @@
+1)
+i)  Reads up to 6 capital letters, prints them. Stop if you press '0'
+ii) Print the difference of the last two (2) letters in hex
+----------------------------------------
+2)
+i)Πρόγραμμα που να τυπώνει 
+"GIVE NUMBERS:" , να διαβάζει 
+δεκαδικά ψηφία (στο [0,9]) τυπώνοντας τα 
+παράλληλα. Να διαβάζει μεχρι να 
+συμπληρωθούν 6 ψηφια ή να πατηθεί ΕΝΤΕR. 
+Να τερματίζει μόνο αν δοθεί Q 
+----------------------------------------
+3)
+i) Input 2 nums <50H (hex) and print them
+EX: GIVE 2 NUMBERS:13 4B
+ii) Pressing ENTER print in hex, the absolute value of their difference
+Programme is continuous. Waiting for correct input (numbers <50H )
+----------------------------------------
+4)
+i) Read 2 hex and print in new line their sum and difference in dec.
+Continuous till 'D' is pressed
+DOSE 2 ARITHMOUS:F2
+ATHR:17 DIAF=13
+----------------------------------------
+5)
+i)  Read 4 nums<10 (dec) and print them without space
+Give 4 Numbers : 6759 
+ii) Read 4 numbers and print in new line the smallest and biggest number (with space in between)
+ΜΙΝ ΜΑΧ : 5 9 
+Continuous till 'D' is pressed
+----------------------------------------
+6)
+i)Read 5 numbers {0,9} and print them. After the 5th, resseting
+ii) Print the difference of the number_of_even_nums - difference_of_odd_nums
+----------------------------------------
+7)
+i)
+Read 4 numbers (0 or 1) and print them
+ii)
+Given the letter 'A' or 'E' adding or substracting and print in dec
+----------------------------------------
+8)
+Read 2 dec numbers, print without space. Pressing ENTER will print in the next line (hex) sum and difference.
+Continuous ending with the letter 'D'
+DOSE 2 ARITHMOYS: 39
+ATHR=C DIAF=-6
+----------------------------------------
+9)
+6 decimal <10 numbers, print without any space
+Continuous, difference of number_of_even_nums - difference of number_of_odd_nums (dec)
+Ends with the letter 'D'
+DOSE 6 ARITHMOUS: 135679
+-4
+----------------------------------------
+10)
+Reading 2 nums<10 (hex). Output mul and difference in a new line (hex)
